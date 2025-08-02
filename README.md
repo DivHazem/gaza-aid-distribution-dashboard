@@ -30,13 +30,12 @@ It provides stakeholders with:
 ---
 
 ## 📂 Project Structure
-```bash
-📁 gaza-aid-distribution-dashboard/
-│
-├── Aid.png               # Main dashboard image
-├── README.md             # Project documentation (this file)
-└── [Coming soon]
-    └── Gaza_Aid.pbix     # Power BI file (optional, if added later)
+
+**Folder contents:**
+
+- `Aid.png` – Main dashboard image  
+- `README.md` – Project documentation (this file)  
+- *(Coming soon)* `Gaza_Aid.pbix` – Power BI file (optional)
 
 ---
 
@@ -100,5 +99,5 @@ This project is shared for educational and portfolio purposes. Contact the autho
 ## 👤 Author
 **Hazem Hendawi**  
 Data Analyst | Power BI Developer  
-📫 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/hazem-al-hendawi/)) | 📧 [Email](hhendawi2002@gmail.com
-)
+📫 [LinkedIn](https://www.linkedin.com/in/hazem-al-hendawi/)  
+📧 [Email](hhendawi2002@gmail.com)
